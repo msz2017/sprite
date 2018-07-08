@@ -1,0 +1,18 @@
+{
+  "name": "sprite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/msz2017/sprite.git",
+  "author": "shuz <15558057209@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-csso": "^3.0.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp.spritesmith": "^6.9.0",
+    "merge-stream": "^1.0.1"
+  },
+  "dependencies": {
+    "vinyl-buffer": "^1.0.1"
+  }
+}
